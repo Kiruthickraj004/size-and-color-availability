@@ -1,0 +1,10 @@
+.custom-color-row {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.custom-color-row input[type="text"] {
+    width: 120px;
+}
